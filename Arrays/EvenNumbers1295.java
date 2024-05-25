@@ -10,7 +10,7 @@ class EvenNumbers1295 {
     public static int findNumbers(int[] nums) {
         int count=0;
         for(int i: nums){
-            if(even(i)){
+            if(even2(i)){
                 count++;
             }
         }
@@ -23,6 +23,11 @@ class EvenNumbers1295 {
             i = i/10;
         }
         return count%2==0;
+    }
+
+    // Optimized Code
+    public static boolean even2(int num){
+        return ((int)(Math.log10(num)))%2==0;
     }
 }
 
