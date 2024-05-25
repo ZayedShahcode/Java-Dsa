@@ -27,7 +27,7 @@ class EvenNumbers1295 {
 
     // Optimized Code
     public static boolean even2(int num){
-        return ((int)(Math.log10(num)))%2==0;
+        return ((int)(Math.log10(num))+1)%2==0;
     }
 }
 
