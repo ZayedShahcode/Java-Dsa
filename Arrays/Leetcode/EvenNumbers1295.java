@@ -1,3 +1,4 @@
+package Leetcode;
 // 1295. Find Numbers with Even Number of Digits
 
 class EvenNumbers1295 {
