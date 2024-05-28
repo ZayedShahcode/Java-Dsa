@@ -1,3 +1,4 @@
+package Theory;
 import java.util.Arrays;
 
 public class LinearSearch {

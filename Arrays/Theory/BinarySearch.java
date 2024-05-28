@@ -1,3 +1,4 @@
+package Theory;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {1,2,6,7,44,223,776,2324,4434};
