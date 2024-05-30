@@ -1,4 +1,4 @@
-package Leetcode;
+
 public class MaxWealth1672 {
     public static void main(String[] args) {
         int[][] arr = {
