@@ -1,3 +1,4 @@
+package Theory;
 //Smallest number greater than equal to given number
 
 public class Ceiling{
