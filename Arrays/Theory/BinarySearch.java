@@ -4,10 +4,10 @@ public class BinarySearch {
         int[] arr = {1,2,6,7,44,223,776,2324,4434};
         int ans=binarySearch(arr, 44);
         if(ans==-1){
-            System.out.println("Element does not exist");
+            System.out.println("\nElement does not exist");
         }
         else{
-        System.out.println("Element exists at index "+ans);
+        System.out.println("\nElement exists at index "+ans);
         }
     }   
 
