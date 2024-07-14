@@ -1,3 +1,4 @@
+// Check adjacent elements. On each pass largest element is sent to end, array size to be sorted decreases 
 package sorting;
 
 import java.util.*;
