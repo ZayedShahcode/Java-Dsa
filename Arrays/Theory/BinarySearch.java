@@ -1,3 +1,4 @@
+// Whenvever given a sorted array, DO BINARY SEARCH
 package Theory;
 public class BinarySearch {
     public static void main(String[] args) {
