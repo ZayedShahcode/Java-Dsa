@@ -1,1 +1,1 @@
-A Complete Data Structures and Algorithms Codespace. I followed Kunal Kushwaha's Youtube playlist.
+Data Structures and Algorithms practice using Java.
